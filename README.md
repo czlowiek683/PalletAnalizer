@@ -1,4 +1,4 @@
-# Palletanalyzer
+# Palletanalizer
 
 Aplikacja służy do analizy ofert i cen produktów w serwisie Allegro.
 
